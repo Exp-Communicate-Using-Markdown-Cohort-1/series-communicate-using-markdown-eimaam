@@ -6,3 +6,7 @@
 $ npm install
 Execute the above command to install all deps
 ```
+
+- [ ] Check out the new branch created by Github
+- [ ] Wrap up Github Education Course today
+- [ ] Update Portfolio second week of the month
